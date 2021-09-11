@@ -1,0 +1,22 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {
+        "green": "hsl(120, 61%, 50%)"
+    },
+    "globals":
+    {
+        "foreground": "var(green)",
+        "background": "var(black)"
+    },
+    "rules":
+    [
+  {
+        "name": "markup punctuation",
+        "scope": "text & (punctuation.definition.italic | punctuation.definition.bold | punctuation.definition.raw | punctuation.definition.link | punctuation.definition.metadata | punctuation.definition.image | punctuation.separator.table-cell | punctuation.section.table-header | punctuation.definition.constant)",
+        "foreground": "var(green)",
+        "background": "var(black)"
+
+    },
+]
+}
