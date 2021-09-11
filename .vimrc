@@ -8,3 +8,4 @@
 :set linebreak
 :set visualbell
 :set foldmethod=indent
+:set autoindent
