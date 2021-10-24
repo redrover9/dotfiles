@@ -8,3 +8,5 @@
 :set linebreak
 :set visualbell
 :set foldmethod=indent
+autocmd vimenter * ++nested colorscheme gruvbox
+:set background=dark
